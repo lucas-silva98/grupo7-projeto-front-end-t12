@@ -67,7 +67,7 @@ const Support = () => {
             <LinkGit
               src={perfil_lucas}
               alt="Lucas Silva"
-              href="https://github.com/lsengcivil"
+              href="https://github.com/silva-lucas98"
             />
           </div>
         </div>
